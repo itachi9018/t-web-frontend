@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  base: "/t-web-frontend/",  // This is the base URL for GitHub Pages
   plugins: [
     react(),
     mode === 'development' &&
