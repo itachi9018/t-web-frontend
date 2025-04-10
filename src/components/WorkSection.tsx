@@ -99,7 +99,7 @@ const WorkSection = () => {
         </div>
 
         <div className="mt-12 text-center">
-          <a href="/work">
+          <a href="/#/work">
             <Button 
               size="lg"
               className={cn(

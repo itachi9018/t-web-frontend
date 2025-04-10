@@ -41,22 +41,22 @@ const Footer = () => {
             <h3 className="font-semibold mb-4">Company</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <a href="/about" className="text-muted-foreground hover:text-primary transition-colors">
+                <a href="/#/about" className="text-muted-foreground hover:text-primary transition-colors">
                   About Us
                 </a>
               </li>
               <li>
-                <a href="/services" className="text-muted-foreground hover:text-primary transition-colors">
+                <a href="/#/services" className="text-muted-foreground hover:text-primary transition-colors">
                   Services
                 </a>
               </li>
               <li>
-                <a href="/work" className="text-muted-foreground hover:text-primary transition-colors">
+                <a href="/#/work" className="text-muted-foreground hover:text-primary transition-colors">
                   Our Work
                 </a>
               </li>
               <li>
-                <a href="/approach" className="text-muted-foreground hover:text-primary transition-colors">
+                <a href="/#/approach" className="text-muted-foreground hover:text-primary transition-colors">
                   Approach
                 </a>
               </li>

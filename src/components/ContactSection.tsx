@@ -151,8 +151,8 @@ const ContactSection: React.FC = () => {
                       info@abctech.com
                     </a> */}
                     <div className="mt-1">
-                      <a href="mailto:a@g.com" className="text-muted-foreground hover:text-primary transition-colors">
-                        a@g.com
+                      <a href="mailto:tritvatech@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                        tritvatech@gmail.com
                       </a>
                     </div>
                   </div>

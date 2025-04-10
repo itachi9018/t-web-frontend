@@ -73,13 +73,13 @@ const HeroSection = () => {
               ref={ctaRef} 
               className="flex flex-col sm:flex-row gap-4 opacity-0 transform translate-y-4 delay-[500ms]"
             >
-              <a href="/contact-us">
+              <a href="/#/contact-us">
                 <Button size="lg" className="group">
                   Contact Us
                   <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </Button>
               </a>
-              <a href="/services">
+              <a href="/#/services">
                 <Button variant="outline" size="lg">
                   Our Services
                 </Button>

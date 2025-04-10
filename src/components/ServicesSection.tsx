@@ -392,7 +392,7 @@ const ServicesSection = () => {
         </div>
 
         <div className="mt-12 text-center">
-          <a href="/services">
+          <a href="/#/services">
             <Button 
               size="lg"
               className={cn(

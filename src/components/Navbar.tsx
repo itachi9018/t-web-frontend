@@ -76,7 +76,7 @@ const Navbar = () => {
               {item.name}
             </NavLink>
           ))}
-          <a href="/contact-us">
+          <a href="/#/contact-us">
             <Button size="sm" className="ml-2">
               Contact Us
             </Button>

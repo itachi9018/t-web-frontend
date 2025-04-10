@@ -367,13 +367,13 @@ const About = () => {
               Whether you're looking to join our team or partner with us on your next project, we'd love to hear from you.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="/contact-us">
+              <a href="/#/contact-us">
                 <Button size="lg" className="group">
                   Contact Us
                   <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </Button>
               </a>
-              <a href="/work">
+              <a href="/#/work">
                 <Button variant="outline" size="lg">
                   View Our Work
                 </Button>

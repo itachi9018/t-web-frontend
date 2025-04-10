@@ -143,7 +143,7 @@ const ApproachSection = () => {
               </p>
             </div>
             <div className="mt-6 md:mt-0">
-              <a href="/contact-us">
+              <a href="/#/contact-us">
                 <button className="bg-primary text-white px-6 py-3 rounded-lg font-medium hover:bg-primary/90 transition-colors">
                   Schedule a Consultation
                 </button>

@@ -274,7 +274,7 @@ const Approach = () => {
                 <p className="text-muted-foreground mb-6">
                   Let's discuss how our proven approach can help solve your business challenges and drive innovation.
                 </p>
-                <a href="/contact-us">
+                <a href="/#/contact-us">
                   <Button size="lg" className="group">
                     Get in Touch
                     <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
